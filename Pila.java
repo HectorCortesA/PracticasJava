@@ -3,7 +3,7 @@ import java.util.Stack;
 public class Pila{
     
     public static void main(String[] args) {
-        Stack<Integer> pila = new Stack<>();
+        Stack<Integer> pila = new Stack<>(); //Declara la pila 
         
         pila.push(2); //agregar elemento a la pila
         pila.push(3);
